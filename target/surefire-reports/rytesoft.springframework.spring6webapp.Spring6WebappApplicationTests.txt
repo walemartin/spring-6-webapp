@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: rytesoft.springframework.spring6webapp.Spring6WebappApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 81.229 s - in rytesoft.springframework.spring6webapp.Spring6WebappApplicationTests
